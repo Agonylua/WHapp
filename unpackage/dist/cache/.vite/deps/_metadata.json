@@ -1,0 +1,15 @@
+{
+  "hash": "1ec8e7c3",
+  "configHash": "cb6523f3",
+  "lockfileHash": "dee3b53b",
+  "browserHash": "70ac778d",
+  "optimized": {
+    "xlsx": {
+      "src": "../../../../../node_modules/xlsx/xlsx.mjs",
+      "file": "xlsx.js",
+      "fileHash": "55206fb9",
+      "needsInterop": false
+    }
+  },
+  "chunks": {}
+}
